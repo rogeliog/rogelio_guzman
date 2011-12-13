@@ -1,11 +1,11 @@
 body{
-  font: Tahoma, Helvetica, Arial, Sans-Serif;
-  position:relative;
-  top:150px;
   background:url(/images/bg.png);
 }
 .hero-unit{
   border: 2px solid #ddd;
+}
+.container{
+  margin-top:150px;
 }
 h3 {
   font: 20px Tahoma, Helvetica, Arial, Sans-Serif;
@@ -48,7 +48,6 @@ div.info a{
   text-align: center;
 }
 div.info{
-
   position:relative;
   color:#049cdb;
   top:-75px;
